@@ -3,6 +3,7 @@ tips for upgrading the angular in local project
 
 
 ng update -- to update angular for the local project
+npm i @angular-devkit/build-angular --save
 
 open package.json to change all the angular items in "dependencies" and "devDependencies" from 12 to 13
 ex:
